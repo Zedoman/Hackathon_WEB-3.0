@@ -2,5 +2,7 @@
 
 ## Authors :
 
-- [@Sanjipan Deb](https://github.com/Sanjipan)
 - [@Abanteeka Acharya](https://github.com/Abanteeka)
+- [@Sanjipan Deb](https://github.com/Sanjipan)
+- [@Avradeep Nayak](https://github.com/Zedoman)
+
